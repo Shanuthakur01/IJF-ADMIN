@@ -27,7 +27,7 @@ const COURSES = [
   { id: "data-analyst",        label: "Data Analyst Bootcamp",        color: "#38bdf8", rgb: "56,189,248" },
   { id: "data-science",        label: "Data Science Bootcamp",        color: "#a78bfa", rgb: "167,139,250" },
   { id: "data-engineer",       label: "Data Engineering Bootcamp",    color: "#fb923c", rgb: "251,146,60" },
-  { id: "production-support",  label: "100% Job-Assistance Bootcamp", color: "#34d399", rgb: "52,211,153" },
+  { id: "production-support",  label: "Production Support Engineer",  color: "#34d399", rgb: "52,211,153" },
 ];
 
 /* ─── Types ───────────────────────────────────────────────── */
